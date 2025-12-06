@@ -19,15 +19,15 @@
 
 
 # Project information .........................................
-site_name: "Session Title"
+site_name: "LTG156: Safeguard Agentic AI Solutions With AI Red Teaming Agent"
 site_url: 
-site_author: Content Creator
+site_author: Nitya Narasimhan and Minsoo Thigpen
 site_description: >-
-  Demo mkdocs for AI Tour Repos
+  Learn how the AI Red Teaming agent in Microsoft Foundry helps you shift left to improve your security posture & build customer trust in your agentic AI solutions.
 
 # Repository ..................................................
-repo_name: microsoft/AITour26-Repo-Template
-repo_url: https://github.com/microsoft/AITour26-Repo-Template
+repo_name: microsoft/aitour26-LTG156-safeguard-agentic-ai-solutions-with-ai-red-teaming-agent
+repo_url: https://github.com/microsoft/aitour26-LTG156-safeguard-agentic-ai-solutions-with-ai-red-teaming-agent
 
 # Copyright ...................................................
 copyright: >
