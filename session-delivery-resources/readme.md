@@ -16,17 +16,20 @@ If you choose to create the demo from scratch, please make sure you do so at lea
 
 1. Try using the [sample workflow](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/ai/azure-ai-projects/samples/evaluations/sample_redteam_evaluations.py) or run a scan in the cloud [using this tutorial](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-ai-red-teaming-cloud?view=foundry&tabs=python). This will setup a base scan to which you can add new attack strategies or risk categories later.
 1. Or just create a new Foundry project resource - then create a new Red teaming scan via the nextgen portal UI.
-as shown [here](https://devblogs.microsoft.com/foundry/assess-agentic-risks-with-the-ai-red-teaming-agent-in-microsoft-foundry/)
-![Example](https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/1-red-teaming-wizard.gif)
+as shown [here](https://devblogs.microsoft.com/foundry/assess-agentic-risks-with-the-ai-red-teaming-agent-in-microsoft-foundry/) from the link above.
+
+![Gif](./1-red-teaming-wizard.gif)
 
 
 ## File Resources
 
-| Resources          | Links                            | Description |
-|-------------------|----------------------------------|-------------------|
-| Session Slides |  [Presentation](https://aka.ms/)  | Presentation slides for theater session |
-| Session Walkthrough    |  [Video](https://aka.ms/) | Pre-recorded version of session delivery |
-|Speaker Notes    |  [Transcript](./speaker-notes.md) | Suggested narrative for session delivery with timings |
+| Resources | Links | Description |
+|------     |-----  |-------------|
+| Slides | PPTX | Presentation Deck |
+| Demo (No Audio)| [Video](https://aka.ms/AAzd15q)| Recording you can play as you explain it interactively|
+| Demo (With Audio)| Video | Recording with audio track for reference (or to use as replay)|
+| Session Walkthrough | Video | Minsoo recording of deck with talking points in [speaker notes](./speaker-notes.md) |
+| | | |
 
 
 ## 🚀Get Started
