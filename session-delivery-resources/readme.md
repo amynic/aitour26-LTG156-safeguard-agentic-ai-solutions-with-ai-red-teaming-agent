@@ -25,10 +25,10 @@ as shown [here](https://devblogs.microsoft.com/foundry/assess-agentic-risks-with
 
 | Resources | Links | Description |
 |------     |-----  |-------------|
-| Slides | PPTX | Presentation Deck |
+| Slides | [PPTX](https://aka.ms/AAzd15y) | Presentation Deck |
 | Demo (No Audio)| [Video](https://aka.ms/AAzd15q)| Recording you can play as you explain it interactively|
-| Demo (With Audio)| Video | Recording with audio track for reference (or to use as replay)|
-| Session Walkthrough | Video | Minsoo recording of deck with talking points in [speaker notes](./speaker-notes.md) |
+| Demo (With Audio)| [Video](https://aka.ms/AAzd15v) | Recording with audio track for reference (or to use as replay)|
+| Session Walkthrough | [Video](https://aka.ms/AAzbtaf) | Minsoo recording of deck with talking points in [speaker notes](./speaker-notes.md) |
 | | | |
 
 
